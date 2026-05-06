@@ -8,7 +8,7 @@ Built using CodeIgniter 4 with a soft beige & butter-yellow aesthetic UI ✨
 
 ## 📸 Preview
 
-![Boredom Buster Preview](screenshots/Screenshot1.png)
+![Boredom Buster Preview](screenshots/Screenshot_1.png)
 
 ---
 
